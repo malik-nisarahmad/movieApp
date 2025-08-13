@@ -8,8 +8,6 @@
 [![Clerk](https://img.shields.io/badge/Auth-Clerk-purple.svg?style=flat-square)](https://clerk.com)
 [![Appwrite](https://img.shields.io/badge/Backend-Appwrite-pink.svg?style=flat-square)](https://appwrite.io)
 
-![Hero Banner](assets/images/bg.png)
-
 </div>
 
 ---
